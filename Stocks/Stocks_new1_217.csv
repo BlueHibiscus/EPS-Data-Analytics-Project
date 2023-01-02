@@ -1,0 +1,11 @@
+TICKER,REPORTS,QUARTERS,POINTS,PTS_EST,ERROR RATE,ACCURACY,url
+TSLA,Jan-25,11,147,13.4,21.7%,67%,https://www.estimize.com/users/analyst_5872211
+META,Feb-1,10,110,11,7.2%,54%,https://www.estimize.com/users/analyst_5872211
+AMZN,Feb-2,10,135,13.5,22.1%,61%,https://www.estimize.com/users/analyst_5872211
+AAPL,Jan-26,9,47,5.2,3.2%,61%,https://www.estimize.com/users/analyst_5872211
+NFLX,Jan-17,9,113,12.6,16.1%,54%,https://www.estimize.com/users/analyst_5872211
+CMG,Feb-7,8,97,12.1,10.2%,66%,https://www.estimize.com/users/analyst_5872211
+EXPE,Feb-9,8,21,2.6,28.9%,52%,https://www.estimize.com/users/analyst_5872211
+SNAP,Feb-7,8,11,1.4,26.7%,52%,https://www.estimize.com/users/analyst_5872211
+GOOGL,Jan-31,8,121,15.1,4.3%,63%,https://www.estimize.com/users/analyst_5872211
+EBAY,Feb-22,8,143,17.9,1.9%,66%,https://www.estimize.com/users/analyst_5872211

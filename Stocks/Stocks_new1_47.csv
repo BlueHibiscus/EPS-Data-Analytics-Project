@@ -1,0 +1,6 @@
+TICKER,REPORTS,QUARTERS,POINTS,PTS_EST,ERROR RATE,ACCURACY,url
+TSLA,Jan-25,1,-5,-5,51.3%,57%,https://www.estimize.com/users/analyst_5643921
+AMZN,Feb-2,1,12,12,13.2%,72%,https://www.estimize.com/users/analyst_5643921
+MSFT,Jan-24,1,13,13,6.0%,28%,https://www.estimize.com/users/analyst_5643921
+PYPL,Feb-1,1,4,4,5.1%,50%,https://www.estimize.com/users/analyst_5643921
+UBER,Feb-8,1,13,13,12.4%,73%,https://www.estimize.com/users/analyst_5643921

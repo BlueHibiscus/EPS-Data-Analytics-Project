@@ -1,0 +1,9 @@
+TICKER,REPORTS,QUARTERS,POINTS,PTS_EST,ERROR RATE,ACCURACY,url
+JD,Mar-2,2,-5,-2.5,16.7%,20%,https://www.estimize.com/users/analyst_8784738
+NFLX,Jan-17,1,23,23,2.6%,75%,https://www.estimize.com/users/analyst_8784738
+AMGN,Feb-2,1,19,19,5.3%,44%,https://www.estimize.com/users/analyst_8784738
+AMD,Jan-31,1,23,23,2.8%,69%,https://www.estimize.com/users/analyst_8784738
+V,Feb-2,1,22,22,2.7%,59%,https://www.estimize.com/users/analyst_8784738
+ADBE,Dec-15,1,17,17,7.5%,40%,https://www.estimize.com/users/analyst_8784738
+AMZN,Feb-2,1,-5,-5,15.5%,61%,https://www.estimize.com/users/analyst_8784738
+TDOC,Feb-21,1,33,33,4.4%,80%,https://www.estimize.com/users/analyst_8784738

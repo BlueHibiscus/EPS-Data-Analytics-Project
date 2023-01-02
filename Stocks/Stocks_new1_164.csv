@@ -1,0 +1,11 @@
+TICKER,REPORTS,QUARTERS,POINTS,PTS_EST,ERROR RATE,ACCURACY,url
+CAT,Jan-26,29,305,10.5,9.3%,55%,https://www.estimize.com/users/leansupplier
+GOLD,Feb-15,28,198,7.1,17.0%,57%,https://www.estimize.com/users/leansupplier
+GOOGL,Jan-31,28,287,10.3,7.2%,52%,https://www.estimize.com/users/leansupplier
+BA,Jan-25,26,174,6.7,20.1%,55%,https://www.estimize.com/users/leansupplier
+META,Feb-1,26,459,17.7,6.4%,60%,https://www.estimize.com/users/leansupplier
+CMI,Feb-7,24,159,6.6,8.9%,50%,https://www.estimize.com/users/leansupplier
+SCCO,Jan-31,24,381,15.9,8.9%,66%,https://www.estimize.com/users/leansupplier
+AAPL,Jan-26,24,94,3.9,5.5%,48%,https://www.estimize.com/users/leansupplier
+FCX,Jan-26,23,59,2.6,27.2%,50%,https://www.estimize.com/users/leansupplier
+IBM,Jan-25,23,311,13.5,2.1%,59%,https://www.estimize.com/users/leansupplier

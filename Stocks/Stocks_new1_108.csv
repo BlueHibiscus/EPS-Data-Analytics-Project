@@ -1,0 +1,4 @@
+TICKER,REPORTS,QUARTERS,POINTS,PTS_EST,ERROR RATE,ACCURACY,url
+AMZN,Feb-2,5,-60,-12,31.1%,14%,https://www.estimize.com/users/analyst_1524319
+EQT,Feb-16,1,-8,-8,59.1%,9%,https://www.estimize.com/users/analyst_1524319
+MSFT,Jan-24,1,21,21,4.3%,54%,https://www.estimize.com/users/analyst_1524319

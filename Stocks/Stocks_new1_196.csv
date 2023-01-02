@@ -1,0 +1,6 @@
+TICKER,REPORTS,QUARTERS,POINTS,PTS_EST,ERROR RATE,ACCURACY,url
+TSLA,Jan-25,3,50,16.7,37.9%,58%,https://www.estimize.com/users/analyst_309351
+WMT,Feb-21,1,-9,-9,3.9%,41%,https://www.estimize.com/users/analyst_309351
+AMZN,Feb-2,1,-5,-5,16.5%,62%,https://www.estimize.com/users/analyst_309351
+AAPL,Jan-26,1,7,7,4.3%,50%,https://www.estimize.com/users/analyst_309351
+INTC,Jan-26,1,18,18,10.3%,47%,https://www.estimize.com/users/analyst_309351

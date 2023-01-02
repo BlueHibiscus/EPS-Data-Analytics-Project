@@ -1,0 +1,5 @@
+TICKER,REPORTS,QUARTERS,POINTS,PTS_EST,ERROR RATE,ACCURACY,url
+AMZN,Feb-2,2,23,11.5,31.8%,64%,https://www.estimize.com/users/analyst_1453334
+CMG,Feb-7,1,40,40,0.5%,72%,https://www.estimize.com/users/analyst_1453334
+NFLX,Jan-17,1,40,40,2.0%,76%,https://www.estimize.com/users/analyst_1453334
+TDOC,Feb-21,1,-8,-8,8.5%,54%,https://www.estimize.com/users/analyst_1453334

@@ -1,0 +1,7 @@
+TICKER,REPORTS,QUARTERS,POINTS,PTS_EST,ERROR RATE,ACCURACY,url
+AAPL,Jan-26,4,23,5.8,8.5%,56%,https://www.estimize.com/users/analyst_7243537
+AMZN,Feb-2,1,-6,-6,16.4%,56%,https://www.estimize.com/users/analyst_7243537
+BKNG,Feb-22,1,18,18,3.3%,48%,https://www.estimize.com/users/analyst_7243537
+BIDU,Feb-23,1,23,23,19.3%,68%,https://www.estimize.com/users/analyst_7243537
+META,Feb-1,1,-10,-10,8.5%,34%,https://www.estimize.com/users/analyst_7243537
+CRM,Nov-30,1,16,16,6.5%,41%,https://www.estimize.com/users/analyst_7243537

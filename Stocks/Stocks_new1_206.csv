@@ -1,0 +1,11 @@
+TICKER,REPORTS,QUARTERS,POINTS,PTS_EST,ERROR RATE,ACCURACY,url
+VSAT,Feb-2,8,125,15.6,17.1%,67%,https://www.estimize.com/users/analyst_3343247
+BABA,Feb-1,8,128,16,6.6%,68%,https://www.estimize.com/users/analyst_3343247
+AMZN,Feb-2,8,173,21.6,17.1%,62%,https://www.estimize.com/users/analyst_3343247
+AEM,Feb-23,7,124,17.7,6.6%,58%,https://www.estimize.com/users/analyst_3343247
+NEM,Feb-23,7,-34,-4.9,16.2%,40%,https://www.estimize.com/users/analyst_3343247
+DBX,Feb-16,7,212,30.3,3.1%,70%,https://www.estimize.com/users/analyst_3343247
+MU,Dec-21,7,68,9.7,9.7%,47%,https://www.estimize.com/users/analyst_3343247
+GOLD,Feb-15,7,52,7.4,9.4%,67%,https://www.estimize.com/users/analyst_3343247
+NGD,Feb-16,6,96,16,20.8%,57%,https://www.estimize.com/users/analyst_3343247
+BHC,Feb-22,5,34,6.8,14.5%,59%,https://www.estimize.com/users/analyst_3343247

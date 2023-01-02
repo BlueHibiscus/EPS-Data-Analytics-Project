@@ -1,0 +1,6 @@
+TICKER,REPORTS,QUARTERS,POINTS,PTS_EST,ERROR RATE,ACCURACY,url
+AMZN,Feb-2,2,27,13.5,8.6%,68%,https://www.estimize.com/users/ryanjosephdolan
+UAA,Feb-14,1,19,19,7.4%,45%,https://www.estimize.com/users/ryanjosephdolan
+TSLA,Jan-25,1,25,25,49.7%,67%,https://www.estimize.com/users/ryanjosephdolan
+AAPL,Jan-26,1,20,20,0.5%,69%,https://www.estimize.com/users/ryanjosephdolan
+MSFT,Jan-24,1,17,17,5.5%,42%,https://www.estimize.com/users/ryanjosephdolan

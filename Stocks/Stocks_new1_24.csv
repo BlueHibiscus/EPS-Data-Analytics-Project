@@ -1,0 +1,4 @@
+TICKER,REPORTS,QUARTERS,POINTS,PTS_EST,ERROR RATE,ACCURACY,url
+AMZN,Feb-2,2,39,19.5,21.8%,55%,https://www.estimize.com/users/willard
+SBH,Feb-2,1,30,30,21.2%,96%,https://www.estimize.com/users/willard
+GES,Mar-22,0,-25,-50,100.0%,2%,https://www.estimize.com/users/willard

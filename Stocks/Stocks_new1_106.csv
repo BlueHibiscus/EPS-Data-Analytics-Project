@@ -1,8 +1,0 @@
-TICKER,REPORTS,QUARTERS,POINTS,PTS_EST,ERROR RATE,ACCURACY,url
-AMZN,Feb-2,2,2,1,16.2%,58%,https://www.estimize.com/users/analyst-5032302
-META,Feb-1,2,9,4.5,1.4%,70%,https://www.estimize.com/users/analyst-5032302
-TSLA,Jan-25,1,-5,-5,51.2%,59%,https://www.estimize.com/users/analyst-5032302
-GOOGL,Jan-31,1,13,13,4.1%,52%,https://www.estimize.com/users/analyst-5032302
-NVDA,Feb-16,1,10,10,19.8%,48%,https://www.estimize.com/users/analyst-5032302
-DAL,Jan-12,1,-4,-4,8.0%,63%,https://www.estimize.com/users/analyst-5032302
-NFLX,Jan-17,1,24,24,12.8%,58%,https://www.estimize.com/users/analyst-5032302

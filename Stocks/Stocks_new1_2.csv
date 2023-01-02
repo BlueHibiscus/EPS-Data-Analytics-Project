@@ -1,7 +1,0 @@
-TICKER,REPORTS,QUARTERS,POINTS,PTS_EST,ERROR RATE,ACCURACY,url
-AMZN,Feb-2,1,12,12,4.4%,66%,https://www.estimize.com/users/analyst_5637861
-NFLX,Jan-17,1,19,19,5.5%,63%,https://www.estimize.com/users/analyst_5637861
-UAL,Jan-17,1,17,17,37.7%,55%,https://www.estimize.com/users/analyst_5637861
-AAL,Jan-19,1,11,11,15.3%,69%,https://www.estimize.com/users/analyst_5637861
-AAPL,Jan-26,1,-28,-28,22.2%,2%,https://www.estimize.com/users/analyst_5637861
-GOOGL,Jan-31,1,16,16,6.2%,69%,https://www.estimize.com/users/analyst_5637861
